@@ -31,6 +31,7 @@ You will be prompted to enter values for x1, x2, and the target value. The neura
 sigmoid Function:
 
 The sigmoid function implements the sigmoid activation function, which is used in the neural network to introduce non-linearity.
+
 propagate Function:
 
 This is the main function of the code, responsible for training the neural network.
@@ -54,5 +55,5 @@ Here's an example of how to use the code:
 
 You will be prompted to enter the values for x1, x2, and the target value, and the code will demonstrate the training process.
 
-License
+## License
 This code is provided under an open-source license. See the LICENSE file for details.
